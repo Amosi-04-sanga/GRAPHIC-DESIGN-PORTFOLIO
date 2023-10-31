@@ -6,7 +6,7 @@ import React from "react";
 
 const Whyus = () => {
   return (
-    <div className="mt-40 bg-whyhireusBG grid relative">
+    <div className="mt-20 bg-whyhireusBG grid relative">
       <div className="w-[80%] h-20 bg-inherit absolute -z-10 left-[50%] -translate-x-2/4 -bottom-4" />
 
         <div className="lg:flex gap-8 lg:py-8">

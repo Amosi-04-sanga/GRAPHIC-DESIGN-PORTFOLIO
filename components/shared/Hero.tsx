@@ -28,7 +28,7 @@ const Hero = () => {
               Hi there! we are{" "}
               <span className="uppercase text-transparent bg-clip-text bg-gradient-to-l from-pink-700 to-pink-300 font-bold">
                 {" "}
-                <span className="italic"> 4 </span> graphic designers
+                graphic designers
               </span>{" "}
               freelancers based in DAR ES SALAAM TANZANIA. Our goal is to help
               you attract more people to your products or services with the help
